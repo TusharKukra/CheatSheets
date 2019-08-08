@@ -4,6 +4,7 @@ Here you find CheatSheets for Data Science Topics
 ## To Download CheatSheet in PDF CLick: 
 
 [![Download](https://img.shields.io/badge/Download-PythonBeginner-brightgreen.svg)](https://github.com/MaverickTK/CheatSheets/raw/master/Beginner%20Python%20CheatSheet.pdf)
+<br>
 [![Download](https://img.shields.io/badge/Download-Calculus-green.svg)](https://github.com/MaverickTK/CheatSheets/raw/master/Calculus%20cheatSheet.pdf)
 [![Download](https://img.shields.io/badge/Download-Keras-yellowgreen.svg)](https://github.com/MaverickTK/CheatSheets/raw/master/Keras.pdf)
 [![Download](https://img.shields.io/badge/Download-LinearAlgebra-yellow.svg)](https://github.com/MaverickTK/CheatSheets/raw/master/LinearAlgebra%20CheatSheet.pdf)
